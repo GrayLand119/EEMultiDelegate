@@ -7,11 +7,14 @@ A `multicast`/`multidelegate` class with thread-safe
 
 # Cocoa Pods
 
-> pod 'EEMultiDelegate', :git => "https://github.com/GrayLand119/EEMultiDelegate.git"
+```
+source 'https://github.com/GrayLand119/GLSpecs.git'
+source 'https://github.com/CocoaPods/Specs.git'
 
-or 
+...
 
-> pod 'EEMultiDelegate'
+pod 'EEMultiDelegate'
+```
 
 # Example
 
